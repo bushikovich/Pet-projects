@@ -1,2 +1,2 @@
 # Practic
-Prprogram to plot graphic with C# and Windows Forms
+Function plotting with C# and Windows Forms
