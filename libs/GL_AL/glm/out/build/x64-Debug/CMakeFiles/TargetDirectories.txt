@@ -1,0 +1,2 @@
+C:/Users/Админ/source/repos/GraphicProjects_OpenGL_Shaders_GLSL/Lesson1/Task01Src/libs/GL_AL/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Админ/source/repos/GraphicProjects_OpenGL_Shaders_GLSL/Lesson1/Task01Src/libs/GL_AL/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
